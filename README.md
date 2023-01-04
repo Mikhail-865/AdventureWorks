@@ -1,2 +1,2 @@
-# AdventureWorks
-Repository for Adventure Works Sample Database Analysis
+# RFM-анализ клиентов компании AdventureWorks
+# [Содержание](Mikhail-865/AdventureWorks/README.md)
